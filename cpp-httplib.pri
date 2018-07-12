@@ -1,0 +1,1 @@
+INCLUDES += $$PWD/httplib.h
